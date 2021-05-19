@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { CardList } from "./components/card-list/card-list.component";
 
 import "./App.css";
 
@@ -31,6 +32,8 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Pokedex</h1>
+
+        <CardList pokemons={fileteredPokemons}></CardList>
       </div>
     );
   }
