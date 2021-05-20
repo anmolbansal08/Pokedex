@@ -1,9 +1,15 @@
-![](public/screenshots/ss1.png)
-
-![](public/screenshots/ss3.png)
-![](public/screenshots/ss4.png)
-![](public/screenshots/ss5.png)
-
+<!-- ![](public/screenshots/ss1.png) -->
+<div>
+  <image src="public/screenshots/ss1.png" height="300px" width="300px" >
+  <image src="public/screenshots/ss3.png" height="300px" width="300px">
+</div>
+  <br><br>
+  
+<div>
+  <image src="public/screenshots/ss4.png" height="300px" width="300px">
+  <image src="public/screenshots/ss5.png" height="300px" width="300px">
+</div>
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
