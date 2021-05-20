@@ -1,13 +1,13 @@
 <!-- ![](public/screenshots/ss1.png) -->
 <div>
-  <image src="public/screenshots/ss1.png" height="300px" width="300px" >
-  <image src="public/screenshots/ss3.png" height="300px" width="300px">
+  <image src="public/screenshots/ss1.png" height="600px" width="600px" ><br>
+  <image src="public/screenshots/ss3.png" height="600px" width="600px">
 </div>
   <br><br>
   
 <div>
-  <image src="public/screenshots/ss4.png" height="300px" width="300px">
-  <image src="public/screenshots/ss5.png" height="300px" width="300px">
+  <image src="public/screenshots/ss4.png" height="600px" width="600px"><br>
+  <image src="public/screenshots/ss5.png" height="600px" width="600px"><br>
 </div>
     
 # Getting Started with Create React App
