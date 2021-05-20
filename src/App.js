@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { CardList } from "./components/card-list/card-list.component";
+import { SearchBox } from "./components/search-box/search-box.component";
 
 import "./App.css";
 
@@ -32,7 +33,10 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Pokedex</h1>
-
+        <SearchBox
+          placeholder="Search Pokemon"
+          handleChange={this.handleChange}
+        />
         <CardList pokemons={fileteredPokemons}></CardList>
       </div>
     );
